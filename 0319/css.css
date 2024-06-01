@@ -1,0 +1,5 @@
+@charset "utf-8";
+#maincontent img {
+	-webkit-box-shadow: 22px 20px #634432;
+	box-shadow: 22px 20px #634432;
+}
