@@ -1,4 +1,8 @@
 @charset "utf-8";
+.main1 {
+    background-color: #FFEED6;
+	text-align: center;
+}
 #maincontent img {
 	-webkit-box-shadow: 22px 20px #634432;
 	box-shadow: 22px 20px #634432;
